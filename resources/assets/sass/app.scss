@@ -67,6 +67,13 @@ p {
   }
 }
 
+#logout {
+  cursor: default;
+  &:hover {
+    background-color: transparent;
+  }
+}
+
 /* footer */
 
 footer {
@@ -164,3 +171,8 @@ input {
 .panel {
   margin-top: 50px;
 }
+
+// #rmber {
+//   float: left;
+//   background-color: red;
+// }
